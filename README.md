@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there, I'm Sérgio! 👋
+## Hi there, I'm Sérgio! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OL-sergio&color=blue)
 
@@ -73,11 +72,6 @@ I'm a passionate software developer with expertise in **mobile development**, **
 **Kotlin | Timer Functionality**
 - Precision stopwatch application
 - Clean UI with time management features
-
-#### ⛽ [Alcool ou Gasolina](https://github.com/OL-sergio/Alcool_ou_Gasolina)
-**Java | Utility Calculator**
-- Fuel efficiency calculator for Brazilian market
-- Helps users decide between alcohol and gasoline
 
 ### 🏢 Industry Clone Projects
 
