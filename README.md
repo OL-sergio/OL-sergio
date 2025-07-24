@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" >
 # 🚀 OL-Sergio's Development Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Developer-blue?style=for-the-badge&logo=github)](https://github.com/OL-sergio)
@@ -75,8 +74,8 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
-</div>
 
+ 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Platform** | Android (API 26+) | Native mobile application |
@@ -88,6 +87,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 | **Location Services** | GeoFire | Real-time location queries |
 | **UI Framework** | Material Design Components | Modern interface design |
 
+</div>    
 ### 🚀 Quick Start Guide
 
 <details>
@@ -202,16 +202,6 @@ implementation 'androidx.constraintlayout:constraintlayout'
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
 ## 🌟 Application Portfolio
 
 <div align="center">
@@ -249,8 +239,6 @@ A beautiful weather application providing accurate forecasts with an intuitive i
 - 🌡️ Current weather conditions and forecasts
 - 📍 Location-based weather detection
 - 📊 Weather charts and historical data
-- 🌙 Day/night mode interface
-- ⚡ Weather alerts and notifications
 
 ---
 
@@ -266,7 +254,7 @@ An Instagram-inspired social chat application with photo sharing, real-time mess
 - 📸 Photo sharing with filters and effects
 - 💬 Real-time messaging and chat rooms
 - 👥 User profiles and social connections
-- ❤️ Like, comment, and sharing system
+- ❤️ Like, comment
 - 📱 Stories and status updates
 
 ---
@@ -317,8 +305,8 @@ A medical utility application providing health tracking, medication reminders, a
 - 💊 Medication tracking and reminders
 - 📋 Health records and history
 - 🏥 Doctor appointments scheduling
-- 📊 Health metrics and charts
-- 🚨 Emergency contact integration
+
+
 
 ---
 
@@ -352,7 +340,6 @@ A marketplace application inspired by OLX, enabling users to buy and sell produc
 - 🔍 Advanced search and filters
 - 💬 In-app messaging system
 - 📸 Photo upload and gallery
-- 💰 Price negotiation features
 
 ---
 
@@ -531,8 +518,10 @@ Each repository contains specific setup instructions in its individual README fi
 ### 👨‍💻 OL-Sergio
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OL-sergio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/OL-sergio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/drive/folders/1-SS5XW_qQgPNBl8mXvhhONFKOceneOjF)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a18074@alunos.ipca.pt)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-dev-android-junior/)
+
 
 *Passionate mobile developer creating innovative solutions*
 
@@ -563,6 +552,6 @@ Individual projects may have different licenses. Please check each repository fo
 
 *This portfolio showcases various projects developed for educational and demonstration purposes. Each application represents different aspects of modern mobile and web development.*
 
-[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white)](#-ol-sergios-development-portfolio)
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white )](#Table-of-Contents)
 
 </div>
