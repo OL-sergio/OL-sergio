@@ -5,7 +5,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Database](https://img.shields.io/badge/Database-SQL-teal?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
 
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
@@ -17,7 +17,6 @@
 ## 📋 Table of Contents
 
 - [🎯 Portfolio Overview](#-portfolio-overview)
-- [📱 Featured Application: Uber Clone](#-featured-application-uber-clone)
 - [🌟 Application Portfolio](#-application-portfolio)
 - [🤝 Collaborative Systems](#-collaborative-systems)
 - [🛠️ Technology Stack](#️-technology-stack)
@@ -415,7 +414,7 @@ A robust REST API service handling all business logic, authentication, and data 
 > **Database Layer**
 
 [![Repository](https://img.shields.io/badge/Repository-ScountingDataBaseSql-teal?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingDataBaseSql)
-[![Database](https://img.shields.io/badge/Database-SQL-teal?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
 Comprehensive database design and management system providing optimized data storage and retrieval for the scouting platform.
 
@@ -460,6 +459,7 @@ This architecture ensures scalability, maintainability, and optimal performance 
 ![SQL](https://img.shields.io/badge/SQL-Database-teal?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Realtime DB](https://img.shields.io/badge/Realtime-Database-orange?style=for-the-badge&logo=firebase&logoColor=white)
+![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🎨 UI/UX
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
@@ -547,13 +547,3 @@ Individual projects may have different licenses. Please check each repository fo
 ⚠️ **Important**: All API keys shown in public repositories are examples only. Replace with your own keys for production use.
 
 ---
-
-<div align="center">
-
-### 🌟 Thanks for visiting!
-
-*This portfolio showcases various projects developed for educational and demonstration purposes. Each application represents different aspects of modern mobile and web development.*
-
-[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white )](#table-of-contents)
-
-</div>
