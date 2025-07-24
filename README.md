@@ -522,7 +522,7 @@ Each repository contains specific setup instructions in its individual README fi
 
 ---
 
-## 📞 Contact & Support
+## 📞 Contact 
 
 <div align="center">
 
