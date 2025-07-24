@@ -5,6 +5,8 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Database](https://img.shields.io/badge/Database-SQL-teal?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+
 
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
 
@@ -552,6 +554,6 @@ Individual projects may have different licenses. Please check each repository fo
 
 *This portfolio showcases various projects developed for educational and demonstration purposes. Each application represents different aspects of modern mobile and web development.*
 
-[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white )](#Table-of-Contents)
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white )](#table-of-contents)
 
 </div>
