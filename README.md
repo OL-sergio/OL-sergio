@@ -10,9 +10,10 @@
 
 # 🚀 OL-Sergio's Development Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Developer-blue?style=for-the-badge&logo=github)](https://github.com/OL-sergio)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
@@ -25,7 +26,6 @@
 
 ## 📋 Table of Contents
 
-- [🎯 Portfolio Overview](#-portfolio-overview)
 - [🌟 Application Portfolio](#-application-portfolio)
 - [🤝 Collaborative Systems](#-collaborative-systems)
 - [🛠️ Technology Stack](#️-technology-stack)
