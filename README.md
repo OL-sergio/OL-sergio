@@ -1,4 +1,13 @@
-<div align="center" >
+
+<!---
+ Makedon Docs
+ https://hackmd.io/5wgPxx1OTfaVDYUVeofRpQ
+ https://forthebadge.com/#/
+ https://sharifsuliman.medium.com/modern-github-badges-for-open-source-repositories-fb4dceeb368a
+ https://naereen.github.io/badges/
+ https://shields.io/
+-->
+
 # 🚀 OL-Sergio's Development Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Developer-blue?style=for-the-badge&logo=github)](https://github.com/OL-sergio)
@@ -47,7 +56,6 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 *An Android application that replicates the core functionality of Uber, providing a platform for ride-sharing services with separate interfaces for passengers and drivers.*
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](link-to-apk)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=youtube)](link-to-demo)
 
 </div>
 
@@ -243,11 +251,10 @@ A beautiful weather application providing accurate forecasts with an intuitive i
 
 ---
 
-### 💬 Instagra-chat
+### 💬 Instagram-clone
 > **Social Media Chat Platform**
 
-[![Repository](https://img.shields.io/badge/Repository-Instagra--chat-purple?style=flat-square&logo=github)](https://github.com/OL-sergio/Instagra-chat)
-[![Real-time](https://img.shields.io/badge/Real--time-Socket.io-black?style=flat-square&logo=socketdotio)](https://socket.io/)
+[![Repository](https://img.shields.io/badge/Repository-Instagram--clone-purple?style=flat-square&logo=github)](https://github.com/OL-sergio/Instagram-clone)
 
 An Instagram-inspired social chat application with photo sharing, real-time messaging, and social networking features.
 
@@ -307,15 +314,12 @@ A medical utility application providing health tracking, medication reminders, a
 - 📋 Health records and history
 - 🏥 Doctor appointments scheduling
 
-
-
 ---
 
 ### 🎨 MiniPaint
 > **Digital Painting Application**
 
 [![Repository](https://img.shields.io/badge/Repository-MiniPaint-pink?style=flat-square&logo=github)](https://github.com/OL-sergio/MiniPaint)
-[![Creative](https://img.shields.io/badge/Creative-Digital%20Art-pink?style=flat-square&logo=adobe)](https://www.adobe.com/)
 
 A lightweight digital painting and drawing application with various brushes, colors, and creative tools.
 
@@ -332,7 +336,6 @@ A lightweight digital painting and drawing application with various brushes, col
 > **Marketplace Platform**
 
 [![Repository](https://img.shields.io/badge/Repository-OLX-blue?style=flat-square&logo=github)](https://github.com/OL-sergio/OLX)
-[![E-commerce](https://img.shields.io/badge/E--commerce-Marketplace-blue?style=flat-square&logo=shopify)](https://www.shopify.com/)
 
 A marketplace application inspired by OLX, enabling users to buy and sell products with advanced search and filtering capabilities.
 
@@ -380,7 +383,6 @@ graph TD
 > **Main Scouting Application**
 
 [![Repository](https://img.shields.io/badge/Repository-Scounting-indigo?style=flat-square&logo=github)](https://github.com/OL-sergio/Scounting)
-[![Mobile](https://img.shields.io/badge/Mobile-Android-green?style=flat-square&logo=android)](https://developer.android.com/)
 
 The primary mobile application providing intuitive interfaces for scouts, coaches, and administrators to manage talent identification processes.
 
@@ -397,7 +399,6 @@ The primary mobile application providing intuitive interfaces for scouts, coache
 > **REST API Service**
 
 [![Repository](https://img.shields.io/badge/Repository-ScountingApi-purple?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingApi)
-[![API](https://img.shields.io/badge/API-REST-purple?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 A robust REST API service handling all business logic, authentication, and data processing for the scouting ecosystem.
 
@@ -414,7 +415,7 @@ A robust REST API service handling all business logic, authentication, and data 
 > **Database Layer**
 
 [![Repository](https://img.shields.io/badge/Repository-ScountingDataBaseSql-teal?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingDataBaseSql)
-[![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
 Comprehensive database design and management system providing optimized data storage and retrieval for the scouting platform.
 
@@ -455,20 +456,28 @@ This architecture ensures scalability, maintainability, and optimal performance 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=fastapi&logoColor=white)
 
+
 ### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-Database-teal?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Realtime DB](https://img.shields.io/badge/Realtime-Database-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ### 🎨 UI/UX
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Custom UI](https://img.shields.io/badge/Custom-UI-purple?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ### 🌐 APIs & Services
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Weather API](https://img.shields.io/badge/Weather-API-blue?style=for-the-badge&logo=openweathermap&logoColor=white)
-![Real-time](https://img.shields.io/badge/Real--time-Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+
+
+### ![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)   Version Control 
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
 
 ---
 
@@ -519,7 +528,7 @@ Each repository contains specific setup instructions in its individual README fi
 
 ### 👨‍💻 OL-Sergio
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OL-sergio)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OL-sergio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/drive/folders/1-SS5XW_qQgPNBl8mXvhhONFKOceneOjF)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a18074@alunos.ipca.pt)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-dev-android-junior/)
