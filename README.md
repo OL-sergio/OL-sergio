@@ -246,8 +246,8 @@ A beautiful weather application providing accurate forecasts with an intuitive i
 
 **Key Features:**
 - 🌡️ Current weather conditions and forecasts
-- 📍 Location-based weather detection
-- 📊 Weather charts and historical data
+- 📍 Location-based detection
+- 📊 Weather charts
 
 ---
 
