@@ -55,7 +55,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 
 *An Android application that replicates the core functionality of Uber, providing a platform for ride-sharing services with separate interfaces for passengers and drivers.*
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](link-to-apk)
+[![Uber_Clone](https://img.shields.io/badge/Uber%20Clone-black?style=for-the-badge&logo=android)](https://github.com/OL-sergio/Uber_clone)
 
 </div>
 
@@ -222,7 +222,7 @@ implementation 'androidx.constraintlayout:constraintlayout'
 ### 🍕 iFood Clone
 > **Food Delivery Platform**
 
-[![Repository](https://img.shields.io/badge/Repository-iFood-orange?style=flat-square&logo=github)](https://github.com/OL-sergio/iFood)
+[![Repository](https://img.shields.io/badge/Repository-iFood-orange?style=flat-square&logo=github)](https://github.com/OL-sergio/iFood_clone)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 
 A comprehensive food delivery application inspired by iFood, featuring restaurant listings, menu browsing, order management, and real-time delivery tracking.
@@ -335,7 +335,7 @@ A lightweight digital painting and drawing application with various brushes, col
 ### 🛒 OLX Clone
 > **Marketplace Platform**
 
-[![Repository](https://img.shields.io/badge/Repository-OLX-blue?style=flat-square&logo=github)](https://github.com/OL-sergio/OLX)
+[![Repository](https://img.shields.io/badge/Repository-OLX-blue?style=flat-square&logo=github)](https://github.com/OL-sergio/OLX-clone)
 
 A marketplace application inspired by OLX, enabling users to buy and sell products with advanced search and filtering capabilities.
 
