@@ -270,7 +270,7 @@ An Instagram-inspired social chat application with photo sharing, real-time mess
 ### 🐦 Flappybird
 > **Classic Game Implementation**
 
-[![Repository](https://img.shields.io/badge/Repository-Flappybird-yellow?style=flat-square&logo=github)](https://github.com/OL-sergio/Flappybird)
+[![Repository](https://img.shields.io/badge/Repository-Flappybird-yellow?style=flat-square&logo=github)](https://github.com/OL-sergio/FlappyBird_clone)
 [![Game](https://img.shields.io/badge/Game-Android-green?style=flat-square&logo=gamepad)](https://developer.android.com/games)
 
 A classic Flappy Bird game implementation with smooth animations, scoring system, and engaging gameplay mechanics.
@@ -379,10 +379,10 @@ graph TD
 
 </div>
 
-#### 📱 Scounting
+#### 📱 Scouting
 > **Main Scouting Application**
 
-[![Repository](https://img.shields.io/badge/Repository-Scounting-indigo?style=flat-square&logo=github)](https://github.com/OL-sergio/Scounting)
+[![Repository](https://img.shields.io/badge/Repository-Scounting-indigo?style=flat-square&logo=github)](https://github.com/OL-sergio/Scouting)
 
 The primary mobile application providing intuitive interfaces for scouts, coaches, and administrators to manage talent identification processes.
 
@@ -395,10 +395,10 @@ The primary mobile application providing intuitive interfaces for scouts, coache
 
 ---
 
-#### 🌐 ScountingApi
+#### 🌐 ScoutingApi
 > **REST API Service**
 
-[![Repository](https://img.shields.io/badge/Repository-ScountingApi-purple?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingApi)
+[![Repository](https://img.shields.io/badge/Repository-ScountingApi-purple?style=flat-square&logo=github)](https://github.com/OL-sergio/ScoutingApi)
 
 A robust REST API service handling all business logic, authentication, and data processing for the scouting ecosystem.
 
@@ -411,7 +411,7 @@ A robust REST API service handling all business logic, authentication, and data 
 
 ---
 
-#### 🗄️ ScountingDataBaseSql
+#### 🗄️ ScoutingDataBaseSql
 > **Database Layer**
 
 [![Repository](https://img.shields.io/badge/Repository-ScountingDataBaseSql-teal?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingDataBaseSql)
@@ -430,9 +430,9 @@ Comprehensive database design and management system providing optimized data sto
 
 The three applications work seamlessly together:
 
-1. **Scounting** provides the user interface and mobile experience
-2. **ScountingApi** handles all business logic and API communication
-3. **ScountingDataBaseSql** manages data persistence and retrieval
+1. **Scouting** provides the user interface and mobile experience
+2. **ScoutingApi** handles all business logic and API communication
+3. **ScoutingDataBaseSql** manages data persistence and retrieval
 
 This architecture ensures scalability, maintainability, and optimal performance across the entire scouting ecosystem.
 
