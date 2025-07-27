@@ -30,7 +30,7 @@
 - [🤝 Collaborative Systems](#-collaborative-systems)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [🚀 Getting Started](#-getting-started)
-- [📞 Contact & Support](#-contact--support)
+- [📞 Contact ](#-contact)
 
 ---
 
