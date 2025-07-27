@@ -414,7 +414,7 @@ A robust REST API service handling all business logic, authentication, and data 
 #### 🗄️ ScoutingDataBaseSql
 > **Database Layer**
 
-[![Repository](https://img.shields.io/badge/Repository-ScountingDataBaseSql-teal?style=flat-square&logo=github)](https://github.com/OL-sergio/ScountingDataBaseSql)
+[![Repository](https://img.shields.io/badge/Repository-ScountingDataBaseSql-teal?style=flat-square&logo=github)](https://github.com/OL-sergio/ScoutingDataBaseSql)
 [![Database](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
 Comprehensive database design and management system providing optimized data storage and retrieval for the scouting platform.
