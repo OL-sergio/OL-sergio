@@ -88,7 +88,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 2. View incoming requests with passenger details
 3. Accept a ride request
 4. Navigate to the passenger's location
-5. Pick up the passenger and navigate to destination
+5. Pick up the passenger and navigate to the destination
 6. Complete the trip and process payment
 
 ---
@@ -104,10 +104,10 @@ A comprehensive food delivery application inspired by iFood, featuring restauran
 
 **Key Features:**
 - 🍽️ Restaurant discovery and browsing
-- 📱 Interactive menu with customization options
+- 📱 Interactive menu with customisation options
 - 🛒 Shopping cart and order management
-- 📍 Real-time delivery tracking
-- 💳 Multiple payment methods integration
+
+
 
 ---
 
@@ -168,10 +168,8 @@ A classic Flappy Bird game implementation with smooth animations, scoring system
 A comprehensive task management application for organizing daily activities, setting reminders, and tracking productivity.
 
 **Key Features:**
-- ✏️ Create, edit, and organize tasks
-- 📅 Calendar integration and scheduling
+- ✏️ Create, edit, and organize task
 - 🔔 Smart notifications and reminders
-- 📊 Progress tracking and analytics
 - 🏷️ Categories and priority management
 
 ---
@@ -185,27 +183,8 @@ A comprehensive task management application for organizing daily activities, set
 A medical utility application providing health tracking, medication reminders, and medical information management.
 
 **Key Features:**
-- 💊 Medication tracking and reminders
 - 📋 Health records and history
 - 🏥 Doctor appointments scheduling
-
----
-
-### 🎨 MiniPaint
-> **Digital Painting Application**
-
-[![Repository](https://img.shields.io/badge/Repository-MiniPaint-pink?style=flat-square&logo=github)](https://github.com/OL-sergio/MiniPaint)
-
-A lightweight digital painting and drawing application with various brushes, colors, and creative tools.
-
-**Key Features:**
-- 🖌️ Multiple brush types and sizes
-- 🎨 Color palette and custom colors
-- 📐 Drawing tools and shapes
-- 💾 Save and export artwork
-- ↩️ Undo/redo functionality
-
----
 
 ### 🛒 OLX Clone
 > **Marketplace Platform**
@@ -263,10 +242,7 @@ The primary mobile application providing intuitive interfaces for scouts, coache
 
 **Key Features:**
 - 👥 Scout and player profile management
-- 📊 Performance analytics and reports
-- 📍 Location-based scouting events
 - 📱 Real-time data synchronization
-- 🎯 Advanced search and filtering
 
 ---
 
