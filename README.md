@@ -379,7 +379,7 @@ graph TD
 
 </div>
 
-#### 📱 Scouting
+#### 📱 Scouting  [](https://github.com/OL-sergio/Scouting)
 > **Main Scouting Application**
 
 [![Repository](https://img.shields.io/badge/Repository-Scounting-indigo?style=flat-square&logo=github)](https://github.com/OL-sergio/Scouting)
