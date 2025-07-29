@@ -45,121 +45,29 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 - **🤝 Collaborative Systems**: Integrated multi-service architectures
 - **🎨 Visual Design**: Material Design and custom UI components
 
+
+## 🌟 Application Portfolio
+
+<div align="lefy">
+
+*A diverse collection of applications showcasing different domains and technologies*
+
+</div>
+
 ---
 
-## 📱 Featured Application: Uber Clone
+## 📱 Uber Clone
 
-<div align="center">
+<div align="left">
 
 ### 🚗 Uber Clone - Ride Sharing Platform
 
 *An Android application that replicates the core functionality of Uber, providing a platform for ride-sharing services with separate interfaces for passengers and drivers.*
 
-[![Uber_Clone](https://img.shields.io/badge/Uber%20Clone-black?style=for-the-badge&logo=android)](https://github.com/OL-sergio/Uber_clone)
+[![Repository](https://img.shields.io/badge/Repository-Uber_Cloen-black?style=flat-square&logo=github)](https://github.com/OL-sergio/Uber_clone)
 
 </div>
 
-### ✨ Key Features
-
-<div align="center">
-
-| 👥 **For Passengers** | 🚗 **For Drivers** | 🔧 **System Features** |
-|:---------------------|:-------------------|:----------------------|
-| 🚗 Request rides with real-time tracking | 🚙 Accept/decline ride requests | 🔐 Secure authentication system |
-| 📍 Set pickup & destination via Maps | 🗺️ Navigate to pickup locations | 👤 Role-based user interface |
-| 💰 View trip costs & payment info | 📊 View passenger & trip details | 🌍 Real-time location tracking |
-| 🔍 Track driver & arrival time | 💳 Process payments & complete trips | 🗣️ Multi-language support |
-| 📱 Cancel rides when needed | 📍 Share location with passengers | 🔄 Live status updates |
-
-</div>
-
-### 🛠️ Technology Stack
-
-<div align="center">
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
-
-
- 
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| **Platform** | Android (API 26+) | Native mobile application |
-| **Language** | Java 8 | Core development language |
-| **Build System** | Gradle with Kotlin DSL | Project automation |
-| **Database** | Firebase Realtime Database & Firestore | Data persistence |
-| **Authentication** | Firebase Authentication | User management |
-| **Maps** | Google Maps Android API | Location services |
-| **Location Services** | GeoFire | Real-time location queries |
-| **UI Framework** | Material Design Components | Modern interface design |
-
-</div>    
-### 🚀 Quick Start Guide
-
-<details>
-<summary><b>🔧 Setup Instructions</b></summary>
-
-#### 1. Clone the Repository
-```bash
-git clone https://github.com/OL-sergio/Uber_clone.git
-cd Uber_clone
-```
-
-#### 2. Firebase Configuration
-1. Create a new project in [Firebase Console](https://console.firebase.google.com/)
-2. Enable Authentication, Realtime Database, and Firestore
-3. Download the `google-services.json` file
-4. Place it in the `app/` directory
-
-#### 3. Google Maps API Setup
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Enable Maps SDK for Android
-3. Create an API key
-4. Update the API key in `AndroidManifest.xml`:
-```xml
-<meta-data
-    android:name="com.google.android.geo.API_KEY"
-    android:value="YOUR_API_KEY_HERE" />
-```
-
-#### 4. Build and Run
-1. Open the project in Android Studio
-2. Sync the project with Gradle files
-3. Connect an Android device or start an emulator
-4. Run the application
-
-</details>
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/udemy/java/uber_clone/
-│   │   │   ├── activity/          # All app activities
-│   │   │   │   ├── MainActivity.java
-│   │   │   │   ├── LoginActivity.java
-│   │   │   │   ├── RegisterActivity.java
-│   │   │   │   ├── PassengerActivity.java
-│   │   │   │   ├── DriverActivity.java
-│   │   │   │   └── RequestsActivity.java
-│   │   │   ├── config/            # Firebase configuration
-│   │   │   ├── helpers/           # Utility classes
-│   │   │   └── model/             # Data models
-│   │   ├── res/                   # Resources (layouts, strings, etc.)
-│   │   └── AndroidManifest.xml
-│   └── test/                      # Unit tests
-└── build.gradle.kts               # App-level build configuration
-```
-
-</details>
-
-<details>
 <summary><b>📱 Usage Guide</b></summary>
 
 #### Getting Started
@@ -183,41 +91,8 @@ app/
 5. Pick up the passenger and navigate to destination
 6. Complete the trip and process payment
 
-</details>
-
-<details>
-<summary><b>📦 Key Dependencies</b></summary>
-
-```kotlin
-// Firebase Services
-implementation 'com.google.firebase:firebase-auth'
-implementation 'com.google.firebase:firebase-database'
-implementation 'com.google.firebase:firebase-firestore'
-
-// Google Services
-implementation 'com.google.android.gms:play-services-maps'
-implementation 'com.google.android.gms:play-services-location'
-
-// Location Services
-implementation 'com.firebase:geofire-android'
-
-// Android UI Components
-implementation 'androidx.appcompat:appcompat'
-implementation 'com.google.android.material:material'
-implementation 'androidx.constraintlayout:constraintlayout'
-```
-
-</details>
-
 ---
 
-## 🌟 Application Portfolio
-
-<div align="center">
-
-*A diverse collection of applications showcasing different domains and technologies*
-
-</div>
 
 ### 🍕 iFood Clone
 > **Food Delivery Platform**
