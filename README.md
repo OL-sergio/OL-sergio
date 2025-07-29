@@ -107,8 +107,6 @@ A comprehensive food delivery application inspired by iFood, featuring restauran
 - 📱 Interactive menu with customisation options
 - 🛒 Shopping cart and order management
 
-
-
 ---
 
 ### 🌤️ YupWeather
