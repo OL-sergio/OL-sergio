@@ -98,7 +98,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 > **Food Delivery Platform**
 
 [![Repository](https://img.shields.io/badge/Repository-iFood-orange?style=flat-square&logo=github)](https://github.com/OL-sergio/iFood_clone)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+
 
 A comprehensive food delivery application inspired by iFood, featuring restaurant listings, menu browsing, order management, and real-time delivery tracking.
 
