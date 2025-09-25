@@ -21,7 +21,13 @@
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
 
 ---
-
+<!-- GitHub Stats -->
+ <h3>GitHub Statistics</h3>
+          <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=default" alt="Sérgio's GitHub Stats" style="margin: 10px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=default" alt="Top Languages" style="margin: 10px;">
+          </div>
+        
 </div>
 
 ## 📋 Table of Contents
