@@ -24,8 +24,8 @@
 <!-- GitHub Stats -->
  <h3>GitHub Statistics</h3>
           <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" height="300" width="400" alt="Sérgio's GitHub Stats" style="margin: 10px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  height="300" width="305" alt="Top Languages" style="margin: 10px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" height="300" width="400" alt="Sérgio's GitHub Stats" >
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  height="300" width="305" alt="Top Languages ">
           </div>
         
 </div>
