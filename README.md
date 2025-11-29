@@ -68,7 +68,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 
 *An Android application that replicates the core functionality of Uber, providing a platform for ride-sharing services with separate interfaces for passengers and drivers.*
 
-[![Repository](https://img.shields.io/badge/Repository-Uber_Cloen-black?style=flat-square&logo=github)](https://github.com/OL-sergio/Uber_clone)
+[![Repository](https://img.shields.io/badge/Repository-Uber_Clone-black?style=flat-square&logo=github)](https://github.com/OL-sergio/Uber_clone)
 
 </div>
 
