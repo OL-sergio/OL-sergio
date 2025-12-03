@@ -50,7 +50,7 @@
 
 ## 🎯 Portfolio Overview
 
-Welcome to my development portfolio! This repository showcases a diverse range of applications and systems, from ride-sharing platforms to collaborative scouting solutions. Each project demonstrates different aspects of modern mobile and web development.
+Welcome to my development portfolio! This repository showcases a diverse range of applications and systems, from ride-sharing platforms to collaborative solutions. Each project demonstrates different aspects of modern mobile and web development.
 
 ### 🌟 Highlights
 - **📱 Mobile Applications**: Native Android apps with modern UI/UX
