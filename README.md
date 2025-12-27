@@ -30,22 +30,24 @@
 
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
 
-
 <!-- GitHub Stats -->
  <h3>GitHub Statistics</h3>
  <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  width=415 alt="Top Languages"/></img>
-     <img src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&theme=dark" height=400 width=400 alt="Sérgio's GitHub Stats"></img>
+    <img src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&theme=dark" height=400 width=400 alt="Sérgio's GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
          
- </div>
-         <!--
+         
+  <!--
+         
           <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  width=415 alt="Top Languages"/>
             <img src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" height=400 width=500 alt="Sérgio's GitHub Stats"></img>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  height=700 width=380  alt="Top Languages"/></img>
           </div>
-         -->
+          
+   -->
 
-         
+
  ---
 
 
