@@ -10,7 +10,7 @@
 
 # 🚀 OL-Sergio's Development Portfolio
 
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,9 +21,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=fff)](https://trello.com/)
-[![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=XML&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction)
+[![XML](https://img.shields.io/badge/XML-FF7518?style=for-the-badge&logo=XML&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=fff)](https://developer.android.com/compose)
-
 
 
 
