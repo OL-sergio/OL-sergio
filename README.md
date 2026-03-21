@@ -32,12 +32,13 @@
 <!-- GitHub Stats -->
  <h3>GitHub Statistics</h3>
  <div>
-  
-   <img src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&theme=dark" height=400 width=400 alt="Sérgio's GitHub Stats"/>
+    <picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5"  width=415 alt="Top Languages"/>
+   <img src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&theme=dark&size_weight=0.5&count_weight=0.5" alt="Sérgio's GitHub Stats"/>
    
-   <picture>
+ 
      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark" />
-     <img src="https://streak-stats.demolab.com?user=Ol-sergio&theme=default" />
+     <img  src="https://streak-stats.demolab.com?user=Ol-sergio&theme=default&size_weight=0.5&count_weight=0.5" />
    </picture>  
    
 </div>
