@@ -32,25 +32,32 @@
 <!-- GitHub Stats -->
  <h3>GitHub Statistics</h3>
  <div>
-    <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5"  width=415 alt="Top Languages"/>
-   <img src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&theme=dark&size_weight=0.5&count_weight=0.5" alt="Sérgio's GitHub Stats"/>
-   
- 
-     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark" />
-     <img  src="https://streak-stats.demolab.com?user=Ol-sergio&theme=default&size_weight=0.5&count_weight=0.5" />
+   <picture>
+     <img  height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5"  width=415 alt="Top Languages"/>
+     <img  height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" alt="Sérgio's GitHub Stats"/>   
+     <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=OL-sergio&theme=onedark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=900&card_height=200" alt="GitHub Streak" />
+     </a>
+  
    </picture>  
-   
+
+  
 </div>
          
   <!--
   
-  <img src="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
- 
+
+         <picture align-self=center >
+             <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark" />
+             <img  height=300 width=600 src="https://streak-stats.demolab.com?user=Ol-sergio&size_weight=0.5&count_weight=1.5"&theme=default />
+          </picture>
+          
           <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  width=415 alt="Top Languages"/>
+            <img src="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
             <img src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" height=400 width=500 alt="Sérgio's GitHub Stats"></img>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark"  height=700 width=380  alt="Top Languages"> </img>
+            
+            <img  height=200 width=450 src="https://gh-readme-profile.vercel.app/api?username=OL-sergio&size_weight=0.5&count_weight=0.5&theme=dark" alt="Sérgio's GitHub Stats"/>
           </div>
           
    -->
