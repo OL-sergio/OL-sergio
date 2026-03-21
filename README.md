@@ -36,7 +36,7 @@
      <img  height=200 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
      <img  height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark" alt="Sérgio's GitHub Stats"/>   
      <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=OL-sergio&theme=onedark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=900&card_height=200" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=OL-sergio&theme=onedark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" />
      </a>
   
    </picture>  
