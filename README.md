@@ -30,10 +30,12 @@
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
 
 <!-- GitHub Stats -->
+
+<!--
  <h3>GitHub Statistics</h3>
  <div>
    <picture>
-     <a href="https://git.io/streak-stats">
+     <a href="https://git.io/streak-stats[![GitHub Streak](https://streak-stats.demolab.com?user=OL-sergio)](https://git.io/streak-stats)
       <img src="https://streak-stats.demolab.com?user=OL-sergio&theme=onedark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=705&card_height=200" alt="GitHub Streak" />
      </a>
   
@@ -42,7 +44,7 @@
   
 </div>
          
-  <!--
+  
          <img height=200 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OL-sergio&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
          <img height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=OL-sergio&show_icons=true&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Sérgio's GitHub Stats"/>   
 
