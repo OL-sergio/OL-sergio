@@ -89,7 +89,7 @@ Welcome to my development portfolio! This repository showcases a diverse range o
 - **🎨 Visual Design**: Material Design and custom UI components
 
 
-## 🌟 Application Portfolio
+## 🌟 Portfolio
 
 <div align="lefy">
 
