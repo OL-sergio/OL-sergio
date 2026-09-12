@@ -26,8 +26,11 @@
 
 
 
-
 *A comprehensive collection of mobile applications and collaborative systems showcasing modern development practices*
+ 
+ 
+ 
+ <img src="https://streak-stats.demolab.com?user=Ol-sergio&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
 
 <!-- GitHub Stats -->
 
